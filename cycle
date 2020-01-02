@@ -1,0 +1,21 @@
+// Check if a given linked list has a cycle. Return true if it does, otherwise return false.
+
+ 
+
+// Assumption:
+
+// You can assume there is no duplicate value appear in the linked list.
+
+//class ListNode {
+// public:
+//  int value;
+//  ListNode* next;
+//  ListNode(int v) : value(v), next(NULL) {
+//}
+
+class Solution {
+ public:
+  bool hasCycle(ListNode* head) {
+    return 0;
+  }
+};
